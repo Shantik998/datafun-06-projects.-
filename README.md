@@ -1,4 +1,4 @@
-# datafun-06-projects.-
+# Datafun-06-Projects
 ### Shanti Kandel 
 ### Data Analytics Fundamentals
 ### 02/18/2023
